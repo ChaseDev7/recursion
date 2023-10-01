@@ -3,4 +3,4 @@ This repository is for the Recursion project in the Javascript course on TheOdin
 Made with:
 
 - VSCode
-- command Line (for testing scripts)
+- Command Line (for testing scripts)
